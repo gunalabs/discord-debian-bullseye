@@ -26,6 +26,6 @@ Any security issues can be either reported as an issue or emailed to discord-deb
 
 ## Suggestions to improve testing
 Its obvious that the methods followed here are not efficient and the whole work of any single commit/PR has to be redundantly done in 
-backwards for checksum verification. Though its not a big deal given the update release cycles Discord, any suggestions to improve these testing 
+backwards for checksum verification. Though its not a big deal given the update release cycles of Discord, any suggestions to improve these testing 
 processes are highly welcomed!
 
