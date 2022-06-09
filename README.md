@@ -5,7 +5,8 @@
 
 It is good seeing it finally fixed in the official release after four+ such Debian 11 incompatible releases of the app. 
 
-<details><summary>Details</summary>
+<details><summary>Old details</summary>
+  
 #### Refer this: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=895037
 ### Context:
 From Debian's Bullseye release, the `libappindicator` package is depreciated and replaced with `libayatana-appindicator`.
